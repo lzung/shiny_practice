@@ -1,0 +1,11 @@
+name: shiny_practice
+title:
+username:
+account: lzung
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8302356
+bundleId: 6842179
+url: https://lzung.shinyapps.io/shiny_practice/
+when: 1676319630.47037
+lastSyncTime: 1676319630.47038
